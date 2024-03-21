@@ -1,0 +1,17 @@
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Visual Studio\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Visual Studio\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form3.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form4.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form5.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form8.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form9.resources
+C:\Visual Studio\Lab1\Lab1\obj\Debug\Lab1.Form7.resources
